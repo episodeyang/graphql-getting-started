@@ -1,5 +1,9 @@
 # graphql-getting-started
+
+Can use graphiQL to play with such backend: https://launchpad.graphql.com/1jzxrj179
+
 some simple scripts for learning graphql
+
 
 
 ```javascript
